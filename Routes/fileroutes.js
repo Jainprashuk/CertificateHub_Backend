@@ -11,5 +11,3 @@ router.get('/files/:id', fileController.getFileById);
 router.get('/files/email/:userEmail', fileController.getFilesByEmail);
 
 module.exports = router;
-
-

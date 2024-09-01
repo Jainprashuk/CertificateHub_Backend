@@ -10,7 +10,6 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "@google-cloud/storage": "^7.12.1",
     "cors": "^2.8.5",
     "express": "^4.19.2",
     "express-jwt": "^8.4.1",
