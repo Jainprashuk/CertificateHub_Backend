@@ -1,4 +1,4 @@
-const FileModel = require('../models/filemodels.js');
+const FileModel = require('../Models/filemodels.js');
 const bucket = require('../Config/firebaseconfig.js');
 
 // Handle file upload
